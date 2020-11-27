@@ -1,0 +1,13 @@
+mat-card {
+  width: 264px;
+  background-color: rgba(130,255,75,.25);
+}
+
+.subscribers {
+  display: flex;
+  flex-direction: row;
+}
+
+.subscribers mat-card {
+  margin: 5px 5px 0 0;
+}
